@@ -1,0 +1,128 @@
+[
+  {
+    "id": "2ab6e975-f1fb-404e-b34e-b5d5658adbd6",
+    "device_id": "394592822-2",
+    "inactive_days": 205,
+    "school": "School 0",
+    "grade": 7,
+    "os": "MacOS",
+    "last_activity_date": "5/4/2021",
+    "address": "Beaverton, OR, USA",
+    "coordinates": [
+      51.7888924,
+      23.2083805
+    ]
+  },
+  {
+    "id": "168048df-4f4a-4809-9186-c4bce71e69b0",
+    "device_id": "732750514-8",
+    "inactive_days": 322,
+    "school": "School 2",
+    "grade": 7,
+    "os": "MacOS",
+    "last_activity_date": "16/5/2020",
+    "address": "Beaverton, OR, USA",
+    "coordinates": [
+      -7.0972,
+      113.6404
+    ]
+  },
+  {
+    "id": "88649552-1d10-4ece-b72e-9781c9bd02bd",
+    "device_id": "111955672-4",
+    "inactive_days": 179,
+    "school": "School 5",
+    "grade": 9,
+    "os": "Android",
+    "last_activity_date": "12/12/2020",
+    "address": "Seattle, WA, USA",
+    "coordinates": [
+      41.8415239,
+      -8.8186886
+    ]
+  },
+  {
+    "id": "b5784d70-4349-4b35-8d06-55a56b53daba",
+    "device_id": "904582271-7",
+    "inactive_days": 229,
+    "school": "School 9",
+    "grade": 9,
+    "os": "iOS",
+    "last_activity_date": "13/5/2020",
+    "address": "Beaverton, OR, USA",
+    "coordinates": [
+      41.4406555,
+      -8.7186309
+    ]
+  },
+  {
+    "id": "c17be288-2050-4c83-b925-7ef981b4d5ef",
+    "device_id": "253927425-0",
+    "inactive_days": 108,
+    "school": "School 8",
+    "grade": 6,
+    "os": "Linux",
+    "last_activity_date": "5/8/2020",
+    "address": "Seattle, WA, USA",
+    "coordinates": [
+      57.6271949,
+      18.2940431
+    ]
+  },
+  {
+    "id": "e11b6519-ffbb-4ace-a793-1ae79c502b24",
+    "device_id": "956535682-6",
+    "inactive_days": 210,
+    "school": "School 7",
+    "grade": 6,
+    "os": "Windows",
+    "last_activity_date": "22/7/2020",
+    "address": "Beaverton, OR, USA",
+    "coordinates": [
+      35.14849,
+      36.03288
+    ]
+  },
+  {
+    "id": "cb585852-c35c-4253-9eb3-aded81ce4fe5",
+    "device_id": "322190873-3",
+    "inactive_days": 62,
+    "school": "School 3",
+    "grade": 6,
+    "os": "Android",
+    "last_activity_date": "9/3/2021",
+    "address": "Tustin, CA, USA",
+    "coordinates": [
+      -6.7047548,
+      111.1280093
+    ]
+  },
+  {
+    "id": "baf39647-9d1a-4beb-9978-7bc69387bb0f",
+    "device_id": "617308317-5",
+    "inactive_days": 76,
+    "school": "School 0",
+    "grade": 2,
+    "os": "Android",
+    "last_activity_date": "31/5/2021",
+    "address": "Tustin, CA, USA",
+    "coordinates": [
+      40.9183403,
+      -8.2327446
+    ]
+  },
+  {
+    "id": "91d495b8-c0a3-4eca-b7ab-43777a3aed28",
+    "device_id": "032140222-7",
+    "inactive_days": 292,
+    "school": "School 7",
+    "grade": 2,
+    "os": "MacOS",
+    "last_activity_date": "9/8/2020",
+    "address": "El Paso, TX, USA",
+    "coordinates": [
+      40.7879444,
+      20.1886551
+    ]
+  }
+]
